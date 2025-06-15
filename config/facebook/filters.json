@@ -1,0 +1,17 @@
+[
+  ".bottom.fixed-container.m > div:has(> div > .bg-s3.m[role='button'])",
+  "div[data-type='vscroller'] > div[role='tablist'] > div[role='tab'][aria-label^='feed']",
+  ".top.fixed-container.m > div > div > div > div[role='button'][aria-label='Back'][data-actual-height='56']",
+  "div:has(> div > div > div[aria-label='Also From Meta, Close'])",
+  "div[role='listitem']:has(> div > div[aria-label='Reels'])",
+  "div[role='listitem']:has(> div > div[aria-label='Messages'])",
+  "div[role='listitem']:has(> div > div[aria-label='Video'])",
+  "div[role='listitem']:has(> div > div[aria-label='Pages'])",
+  "div[role='listitem']:has(> div > div[aria-label='Saved'])",
+  "div[role='listitem']:has(> div > div[aria-label='Memories'])",
+  "div[role='listitem']:has(> div > div[aria-label='Games'])",
+  "div[role='listitem']:has(> div > div[aria-label='Ads Manager'])",
+  "div[role='listitem']:has(> div > div[aria-label='Feeds'])",
+  "div[data-type='vscroller'] > div > div[data-type='multi'] > div > div[role='button']",
+  "div[role='button'][aria-label='See all Friends']"
+]
