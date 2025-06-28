@@ -17,7 +17,7 @@
   "div[data-type='vscroller'] > div > div[data-type='multi'] > div > div[role='button']",
   "div[style*='clip-path:inset(0 0 0 0 round 30px)'] > div:has(> h4[data-mcomponent='ServerTextArea'] > div.native-text)",
   "div:has(> div > div[role='button'][aria-label='Go to profile'])",
-  "div[data-screen-id='124'] > div[data-type='vscroller'] > div:has(> div > div > div > div.no-hscroller.hscroller.m > div.not-snappable.m[data-mcomponent='ImageArea'])",
+  "div[data-screen-id='124'] > div[data-type='vscroller'] > div:has(> div > div > div > div[data-is-h-scrollable='true'])",
   "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-tracking-duration-id]",
   "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-on-first-visibility-action-id]",
   "div[data-type='vscroller'][data-is-pull-to-refresh-allowed='false'] > div[data-tracking-duration-id]:has(> div > div > div[role='button'][aria-label='Video player'][data-testid='sponsored-story-photo'])",
