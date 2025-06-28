@@ -21,5 +21,6 @@
   "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-on-first-visibility-action-id]",
   "div[data-type='vscroller'] > div[data-tracking-duration-id]:has(> div > div > div[role='button'][aria-label='Video player'][data-testid='sponsored-story-photo'])",
   "div[data-type='vscroller'] > div:has(> div > div > div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])",
-  "div[data-type='vscroller'] > div:has(> div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])"
+  "div[data-type='vscroller'] > div:has(> div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])",
+  "div[data-type='vscroller'] > div:has(> div.no-hscroller.hscroller.m > div > div[role='button'][aria-label^='For you'])"
 ]
