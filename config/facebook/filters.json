@@ -9,8 +9,7 @@
   "div[role='listitem']:has(> div > div[aria-label='Video'])",
   "div[role='listitem']:has(> div > div[aria-label='Live videos'])",
   "div[role='listitem'] > div:has(> div[aria-label='Pages'])",
-  "div[role='listitem']:has(> div > div[aria-label='Saved'])",
-  "div[role='listitem']:has(> div > div[aria-label='Memories'])",
+  "div[role='listitem'] > div:has(> div[aria-label='Memories'])",
   "div[role='listitem']:has(> div > div[aria-label='Games'])",
   "div[role='listitem']:has(> div > div[aria-label='Ads Manager'])",
   "div[role='listitem']:has(> div > div[aria-label='Feeds'])",
@@ -20,6 +19,7 @@
   "div[data-screen-id='124'] > div[data-type='vscroller'] > div:has(> div > div > div > div[data-is-h-scrollable='true'])",
   "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-tracking-duration-id]",
   "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-on-first-visibility-action-id]",
-  "div[data-type='vscroller'][data-is-pull-to-refresh-allowed='false'] > div[data-tracking-duration-id]:has(> div > div > div[role='button'][aria-label='Video player'][data-testid='sponsored-story-photo'])",
-  "div[data-type='vscroller'][data-is-pull-to-refresh-allowed='false'] > div:has(> div > div > div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])"
+  "div[data-type='vscroller'] > div[data-tracking-duration-id]:has(> div > div > div[role='button'][aria-label='Video player'][data-testid='sponsored-story-photo'])",
+  "div[data-type='vscroller'] > div:has(> div > div > div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])",
+  "div[data-type='vscroller'] > div:has(> div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])"
 ]
