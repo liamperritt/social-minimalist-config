@@ -2,5 +2,8 @@
   "ytm-pivot-bar-item-renderer:has(> div.pivot-w2w.pivot-bar-item-tab)",
   "ytm-pivot-bar-item-renderer:has(> div.pivot-shorts.pivot-bar-item-tab)",
   "ytm-item-section-renderer:has(> lazy-list > ytm-reel-shelf-renderer.item)",
-  "ytm-rich-section-renderer:has(> div.rich-section-content > grid-shelf-view-model.ytGridShelfViewModelHost)"
+  "ytm-rich-section-renderer:has(> div.rich-section-content > grid-shelf-view-model.ytGridShelfViewModelHost)",
+  "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content",
+  "ytm-single-column-watch-next-results-renderer > div > ytm-item-section-renderer:has(> lazy-list > ad-slot-renderer)",
+  "ytm-companion-slot > ytm-companion-ad-renderer"
 ]
