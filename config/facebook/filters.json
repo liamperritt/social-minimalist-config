@@ -2,6 +2,7 @@
   ".bottom.fixed-container.m > div:has(> div > .bg-s3.m[role='button'])",
   "div[role='button'][data-mcomponent='ServerTextArea']:has(> div.am.ac.fl > div.native-text)",
   "div[data-type='vscroller'] > div[role='tablist'] > div[role='tab'][aria-label^='feed']",
+  "div[data-type='vscroller'] > div:has(> div > div[data-tracking-duration-id] > div > div > div[data-action-id][data-focusable='true'] > div[data-mcomponent='ImageArea'][data-type='text'])",
   ".top.fixed-container.m > div > div > div > div[role='button'][aria-label='Back'][data-actual-height='56']",
   "div:has(> div > div > div[aria-label='Also From Meta, Close'])",
   "div[role='listitem']:has(> div > div[aria-label='Reels'])",
