@@ -13,5 +13,6 @@
   "ytm-companion-slot:has(> ytm-companion-ad-renderer)",
   "ytm-comment-replies-renderer",
   "yt-button-shape:has(> a[aria-label='Open App'])",
-  "player-endscreen.ytwPlayerEndscreenHost"
+  "player-endscreen.ytwPlayerEndscreenHost",
+  "yt-tab-shape[tab-title='Shorts']"
 ]
