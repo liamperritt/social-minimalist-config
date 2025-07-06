@@ -14,5 +14,6 @@
   "ytm-comment-replies-renderer",
   "yt-button-shape:has(> a[aria-label='Open App'])",
   "player-endscreen.ytwPlayerEndscreenHost",
-  "yt-tab-shape[tab-title='Shorts']"
+  "yt-tab-shape[tab-title='Shorts']",
+  "ytm-shorts-lockup-view-model"
 ]
