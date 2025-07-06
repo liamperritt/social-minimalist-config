@@ -4,6 +4,11 @@
   "ytm-item-section-renderer:has(> lazy-list > ytm-reel-shelf-renderer.item)",
   "ytm-rich-section-renderer:has(> div.rich-section-content > grid-shelf-view-model.ytGridShelfViewModelHost)",
   "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content",
+  "ytm-single-column-watch-next-results-renderer > div.related-items-container",
   "ytm-single-column-watch-next-results-renderer > div > ytm-item-section-renderer:has(> lazy-list > ad-slot-renderer)",
-  "ytm-companion-slot > ytm-companion-ad-renderer"
+  "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer:has(> lazy-list > ad-slot-renderer)",
+  "ytm-companion-slot:has(> ytm-companion-ad-renderer)",
+  "ytm-comment-replies-renderer",
+  "yt-button-shape:has(> a[aria-label='Open App'])",
+  "player-endscreen.ytwPlayerEndscreenHost"
 ]
