@@ -1,7 +1,7 @@
 [
   "ytm-pivot-bar-item-renderer:has(> div.pivot-w2w.pivot-bar-item-tab)",
   "ytm-pivot-bar-item-renderer:has(> div.pivot-shorts.pivot-bar-item-tab)",
-  "ytm-browse:has(> ytm-single-column-browse-results-renderer > div > div[tab-title='Home'])",
+  "ytm-browse:has(> ytm-single-column-browse-results-renderer > div > div[tab-identifier='FEwhat_to_watch'])",
   "div.rich-grid-sticky-header.rich-grid-renderer-header:has(> ytm-feed-filter-chip-bar-renderer)",
   "ytm-item-section-renderer:has(> lazy-list > ytm-reel-shelf-renderer.item)",
   "ytm-rich-section-renderer:has(> div.rich-section-content > grid-shelf-view-model.ytGridShelfViewModelHost)",
