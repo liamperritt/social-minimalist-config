@@ -13,7 +13,9 @@
   "ytm-companion-slot:has(> ytm-companion-ad-renderer)",
   "ytm-comment-replies-renderer",
   "yt-button-shape:has(> a[aria-label='Open App'])",
-  "player-endscreen.ytwPlayerEndscreenHost",
+  "player-endscreen",
+  "yt-comment-teaser-carousel-item-view-model",
+  "div[aria-label='YouTube Video Player'][class~='ad-showing'] > div > video",
   "yt-tab-shape[tab-title='Shorts']",
   "ytm-shorts-lockup-view-model"
 ]
