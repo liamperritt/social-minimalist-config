@@ -15,6 +15,7 @@
   "yt-button-shape:has(> a[aria-label='Open App'])",
   "player-endscreen",
   "yt-comment-teaser-carousel-item-view-model",
+  "div.fullscreen-watch-next-entrypoint-wrapper",
   "div[aria-label='YouTube Video Player'][class~='ad-showing'] > div > video",
   "yt-tab-shape[tab-title='Shorts']",
   "ytm-shorts-lockup-view-model"
