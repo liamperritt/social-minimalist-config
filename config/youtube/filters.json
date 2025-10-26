@@ -12,7 +12,7 @@
   "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer:has(> lazy-list > ad-slot-renderer)",
   "ytm-companion-slot:has(> ytm-companion-ad-renderer)",
   "ytm-comment-replies-renderer",
-  "yt-button-shape:has(> button[aria-label='Open App'])",
+  "a[aria-label='Open App']",
   "player-endscreen",
   "yt-comment-teaser-carousel-item-view-model",
   "div.fullscreen-watch-next-entrypoint-wrapper",
