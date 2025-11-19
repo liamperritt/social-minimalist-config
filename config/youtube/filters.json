@@ -3,7 +3,7 @@
   "ytm-pivot-bar-item-renderer:has(> div.pivot-shorts.pivot-bar-item-tab)",
   "ytm-browse:has(> ytm-single-column-browse-results-renderer > div > div[tab-identifier='FEwhat_to_watch'])",
   "div.rich-grid-sticky-header.rich-grid-renderer-header:has(> ytm-feed-filter-chip-bar-renderer)",
-  "ytm-item-section-renderer:has(> lazy-list > ytm-reel-shelf-renderer.item)",
+  "ytm-reel-shelf-renderer.item",
   "ytm-rich-section-renderer:has(> div.rich-section-content > grid-shelf-view-model.ytGridShelfViewModelHost)",
   "ytm-video-with-context-renderer:has(> ytm-media-item.big-shorts-singleton)",
   "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content",
