@@ -1,0 +1,44 @@
+{
+  "distractions": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.facebook.com/",
+      "toUrl": "https://m.facebook.com/bookmarks/"
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.facebook.com/notifications/",
+      "toUrl": "https://m.facebook.com/bookmarks/"
+    }
+  ],
+  "feed": [],
+  "videos": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.facebook.com/watch/",
+      "toUrl": "https://m.facebook.com/bookmarks/",
+      "exactMatch": true
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.facebook.com/watch/live/",
+      "toUrl": "https://m.facebook.com/bookmarks/",
+      "exactMatch": true
+    }
+  ],
+  "reels": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.facebook.com/reel/",
+      "toUrl": "https://m.facebook.com/bookmarks/"
+    }
+  ],
+  "stories": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.facebook.com/stories/",
+      "toUrl": "https://m.facebook.com/bookmarks/"
+    }
+  ],
+  "pages": []
+}

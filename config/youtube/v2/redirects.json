@@ -1,0 +1,26 @@
+{
+  "distractions": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.youtube.com/",
+      "toUrl": "https://m.youtube.com/feed/subscriptions/"
+    }
+  ],
+  "feed": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.youtube.com/",
+      "toUrl": "https://m.youtube.com/feed/subscriptions/",
+      "exactMatch": true
+    }
+  ],
+  "shorts": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.youtube.com/shorts/",
+      "toUrl": "https://m.youtube.com/feed/subscriptions/"
+    }
+  ],
+  "comments": [],
+  "replies": []
+}

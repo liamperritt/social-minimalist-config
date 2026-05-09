@@ -1,0 +1,31 @@
+{
+  "distractions": [
+    "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content",
+    "ytm-single-column-watch-next-results-renderer > div.related-items-container",
+    "ytm-single-column-watch-next-results-renderer > div > ytm-item-section-renderer:has(> lazy-list > ad-slot-renderer)",
+    "ytm-single-column-watch-next-results-renderer > ytm-item-section-renderer:has(> lazy-list > ad-slot-renderer)",
+    "ytm-companion-slot:has(> ytm-companion-ad-renderer)",
+    "a[aria-label='Open App']",
+    "player-endscreen",
+    "yt-comment-teaser-carousel-item-view-model",
+    "div.fullscreen-watch-next-entrypoint-wrapper",
+    "div[aria-label='YouTube Video Player'][class~='ad-showing'] > div > video"
+  ],
+  "feed": [
+    "ytm-pivot-bar-item-renderer:has(> div.pivot-w2w.pivot-bar-item-tab)",
+    "ytm-browse:has(> ytm-single-column-browse-results-renderer > div > div[tab-identifier='FEwhat_to_watch'])",
+    "div.rich-grid-sticky-header.rich-grid-renderer-header:has(> ytm-feed-filter-chip-bar-renderer)"
+  ],
+  "shorts": [
+    "ytm-pivot-bar-item-renderer:has(> div.pivot-shorts.pivot-bar-item-tab)",
+    "ytm-reel-shelf-renderer.item",
+    "ytm-rich-section-renderer:has(> div.rich-section-content > grid-shelf-view-model.ytGridShelfViewModelHost)",
+    "ytm-video-with-context-renderer:has(> ytm-media-item.big-shorts-singleton)",
+    "yt-tab-shape[tab-title='Shorts']",
+    "ytm-shorts-lockup-view-model"
+  ],
+  "replies": [
+    "ytm-comment-replies-renderer"
+  ],
+  "comments": []
+}

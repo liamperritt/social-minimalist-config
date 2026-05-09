@@ -1,0 +1,41 @@
+{
+  "distractions": [
+    ".bottom.fixed-container.m > div:has(> div > .bg-s3.m[role='button'])",
+    "div[role='button'][data-mcomponent='ServerTextArea']:has(> div.am.ac.fl > div.native-text)",
+    "div[data-type='vscroller'] > div[role='tablist'] > div[role='tab'][aria-label^='feed']",
+    "div[data-type='vscroller'] > div:has(> div > div[data-tracking-duration-id] > div > div > div[data-action-id][data-focusable='true'] > div[data-mcomponent='ImageArea'][data-type='text'])",
+    ".top.fixed-container.m > div > div > div > div[role='button'][aria-label='Back'][data-actual-height='56']",
+    "div:has(> div > div > div[aria-label='Also From Meta, Close'])",
+    "div[data-type='vscroller'] > div > div[data-type='multi'] > div > div[role='button']",
+    "div[style*='clip-path:inset(0 0 0 0 round 30px)'] > div:has(> h4[data-mcomponent='ServerTextArea'] > div.native-text)",
+    "div[data-type='vscroller'] > div[data-tracking-duration-id]:has(> div > div > div[role='button'][aria-label='Video player'][data-testid='sponsored-story-photo'])",
+    "div[data-type='vscroller'] > div:has(> div > div > div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])",
+    "div[data-type='vscroller'] > div:has(> div[data-actual-height='37'] > h3[data-mcomponent='TextArea'])",
+    "div[role='listitem'] > div:has(> div[aria-label='Messages'])",
+    "div[role='listitem'] > div:has(> div[aria-label='Memories'])",
+    "div[role='listitem'] > div:has(> div[aria-label='Games'])",
+    "div[role='listitem'] > div:has(> div[aria-label='Ads Manager'])",
+    "div[role='listitem'] > div:has(> div[aria-label='Birthdays'])",
+    "div[role='listitem']:has(> div > div[aria-label='Friends'])"
+  ],
+  "feed": [
+    "div[role='listitem'] > div:has(> div[aria-label='Feeds'])",
+    "div:has(> div > div[role='button'][aria-label='Go to profile'])",
+    "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-tracking-duration-id]",
+    "div[data-screen-id='124'] > div[data-type='vscroller'] > div[data-on-first-visibility-action-id]"
+  ],
+  "stories": [
+    "div[data-screen-id='124'] > div[data-type='vscroller'] > div:has(> div > div > div > div[data-is-h-scrollable='true'])"
+  ],
+  "videos": [
+    "div[role='listitem'] > div:has(> div[aria-label='Video'])",
+    "div[role='listitem'] > div:has(> div[aria-label='Live videos'])",
+    "div[data-type='vscroller'] > div:has(> div.no-hscroller.hscroller.m > div > div[role='button'][aria-label^='For you'])"
+  ],
+  "reels": [
+    "div[role='listitem'] > div:has(> div[aria-label='Reels'])"
+  ],
+  "pages": [
+    "div[role='listitem'] > div:has(> div[aria-label='Pages'])"
+  ]
+}
