@@ -19,8 +19,12 @@
       "when": "blocked",
       "fromUrl": "https://m.youtube.com/shorts/",
       "toUrl": "https://m.youtube.com/feed/subscriptions/"
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.youtube.com/shorts/",
+      "toUrl": "https://m.youtube.com/feed/subscriptions/"
     }
   ],
-  "comments": [],
   "replies": []
 }

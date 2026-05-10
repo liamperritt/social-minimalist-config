@@ -3,12 +3,26 @@
     {
       "when": "blocked",
       "fromUrl": "https://www.instagram.com/notifications/",
-      "toUrl": "https://www.instagram.com/direct/inbox/"
+      "toUrl": "https://www.instagram.com/accounts/settings/",
+      "ifPreviousUrl": "https://www.instagram.com/direct/inbox/"
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.instagram.com/notifications/",
+      "toUrl": "https://www.instagram.com/direct/inbox/",
+      "ifNotPreviousUrl": "https://www.instagram.com/direct/inbox/"
     },
     {
       "when": "blocked",
       "fromUrl": "https://www.instagram.com/?variant=following",
-      "toUrl": "https://www.instagram.com/direct/inbox/"
+      "toUrl": "https://www.instagram.com/accounts/settings/",
+      "ifPreviousUrl": "https://www.instagram.com/direct/inbox/"
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.instagram.com/?variant=following",
+      "toUrl": "https://www.instagram.com/direct/inbox/",
+      "ifNotPreviousUrl": "https://www.instagram.com/direct/inbox/"
     }
   ],
   "feed": [],
@@ -16,14 +30,28 @@
     {
       "when": "blocked",
       "fromUrl": "https://www.instagram.com/explore/",
-      "toUrl": "https://www.instagram.com/direct/inbox/"
+      "toUrl": "https://www.instagram.com/accounts/settings/",
+      "ifPreviousUrl": "https://www.instagram.com/direct/inbox/"
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.instagram.com/explore/",
+      "toUrl": "https://www.instagram.com/direct/inbox/",
+      "ifNotPreviousUrl": "https://www.instagram.com/direct/inbox/"
     }
   ],
   "reels": [
     {
       "when": "blocked",
       "fromUrl": "https://www.instagram.com/reels/",
-      "toUrl": "https://www.instagram.com/direct/inbox/"
+      "toUrl": "https://www.instagram.com/accounts/settings/",
+      "ifPreviousUrl": "https://www.instagram.com/direct/inbox/"
+    },
+    {
+      "when": "blocked",
+      "fromUrl": "https://www.instagram.com/reels/",
+      "toUrl": "https://www.instagram.com/direct/inbox/",
+      "ifNotPreviousUrl": "https://www.instagram.com/direct/inbox/"
     }
   ],
   "favorites": [

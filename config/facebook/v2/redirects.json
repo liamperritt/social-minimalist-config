@@ -11,7 +11,15 @@
       "toUrl": "https://m.facebook.com/bookmarks/"
     }
   ],
-  "feed": [],
+  "feed": [
+    {
+      "when": "blocked",
+      "fromUrl": "https://m.facebook.com/",
+      "toUrl": "https://m.facebook.com/bookmarks/",
+      "withSelector": "div[data-screen-id='124']",
+      "exactMatch": true
+    }
+  ],
   "videos": [
     {
       "when": "blocked",
